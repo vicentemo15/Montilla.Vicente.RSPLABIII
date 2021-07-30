@@ -1,0 +1,74 @@
+{
+  "autos": [
+    {
+      "id": 1622588273339,
+      "titulo": "Aveo",
+      "transaccion": "Venta",
+      "descripcion": "Confortable",
+      "precio": 155000,
+      "cantPuertas": "4",
+      "cantKMs": "45000",
+      "potencia": "160"
+    },
+    {
+      "id": 1624926456400,
+      "titulo": "Corola",
+      "transaccion": "Venta",
+      "descripcion": "Impecable",
+      "precio": 150000,
+      "cantPuertas": "5",
+      "cantKMs": "100000",
+      "potencia": "300"
+    },
+    {
+      "id": 1624972330043,
+      "titulo": "Mercedes ",
+      "transaccion": "Alquiler",
+      "descripcion": "Para Vacaciones",
+      "precio": 25000,
+      "cantPuertas": "4",
+      "cantKMs": "50000",
+      "potencia": "350"
+    },
+    {
+      "id": 1624990696843,
+      "titulo": "Chevy",
+      "transaccion": "Alquiler",
+      "descripcion": "Taxi",
+      "precio": 3000,
+      "cantPuertas": "3",
+      "cantKMs": "300000",
+      "potencia": "700"
+    },
+    {
+      "id": 1625006748951,
+      "titulo": "Toyota vas",
+      "transaccion": "Venta",
+      "descripcion": "familiar",
+      "precio": 450000,
+      "cantPuertas": "2",
+      "cantKMs": "60000",
+      "potencia": "250"
+    },
+    {
+      "id": 1625006826460,
+      "titulo": "Polo",
+      "transaccion": "Alquiler",
+      "descripcion": "Descuetno en efectivo",
+      "precio": 5000,
+      "cantPuertas": "4",
+      "cantKMs": "250000",
+      "potencia": "350"
+    },
+    {
+      "id": 1627578618339,
+      "titulo": "Toyota",
+      "transaccion": "Alquiler",
+      "descripcion": "4x4",
+      "precio": 2500,
+      "cantPuertas": "4",
+      "cantKMs": "250",
+      "potencia": "150"
+    }
+  ]
+}
